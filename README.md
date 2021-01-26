@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
+	![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 	
 	
 </p>
