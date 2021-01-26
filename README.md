@@ -1,5 +1,6 @@
 
-![](https://github.com/maksklaus/maksklaus/blob/master/read/header.png)
+![](https://github.com/maksklaus/read/blob/master/header.png?raw=true)
+
 <p align="center">
 	<a href="https://github.com/maksklaus"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/maksklaus/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
