@@ -1,6 +1,8 @@
-
-
-
+### About me
+I'm Umerov Javokhir with the nick name of Maks Klaus (I literally picked that name for myself).
+I've been coding for more than a year now, and also been constently improving my Programming Skills and everything within Software Engineering Field.
+Connect with me.
+https://java-engineer.netlify.app
 
 ### Languages
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/maksklaus?tab=repositories&q=&type=&language=python)
