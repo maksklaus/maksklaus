@@ -1,4 +1,6 @@
-![Hey there, I Klaus. I'm a software engineer](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 ### About me
 I'm Umerov Javokhir with the nick name of Maks Klaus (I literally picked that name for myself).
 I've been coding for more than a year now, and also been constently improving my Programming Skills and everything within Software Engineering Field.
