@@ -1,4 +1,4 @@
-<a href="https://giphy.com/gifs/L1mphX91arRHG7PSmr/html5" />
+<a href="https://giphy.com/gifs/L1mphX91arRHG7PSmr/html5"><</a>
 
 ### About me
 I'm Umerov Javokhir with the nick name of Maks Klaus (I literally picked that name for myself).
