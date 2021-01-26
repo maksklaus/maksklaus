@@ -1,6 +1,6 @@
 
 
-[![Header](https://raw.githubusercontent.com/adamalston/maksklaus/master/profile.gif)](https://java-engineer.netlify.app/)
+
 
 ### Languages
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
