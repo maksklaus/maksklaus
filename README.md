@@ -1,8 +1,6 @@
 
 ![](https://github.com/maksklaus/image/blob/main/header.png)
 
-
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <p align="center">
 	<a href="https://github.com/maksklaus"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/maksklaus/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
